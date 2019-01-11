@@ -1,7 +1,7 @@
 ## to-do-mvc
 
-* 清除CSS的默认样式
+清除CSS的默认样式
 
-* localStorage（）
+localStorage（）
 
-* http://todomvc.com/ ：通过不同的框架实现todo这个功能
+http://todomvc.com/ ：通过不同的框架实现todo这个功能
